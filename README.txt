@@ -2,6 +2,8 @@ David Tsatsoulis
 
 SPACE FORCE
 
+Standalone in the Builds folder. Simply run and enjoy!
+
 Space Force is a traditional Arcade style space shooter game built in Unity for PC.
 The Player must endure several waves of enemy forces before facing a terrifying boss, after which the cycle begins again, this time faster.
 The game contains 2 modes, Game Mode A (Normal) and Game Mode B (Bullet Hell), where bullets that exit the screen wrap around to the opposite end, adding an additional challenge.
